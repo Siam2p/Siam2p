@@ -47,9 +47,9 @@ I believe in positivity, growth, and collaboration — because great things are 
 
 ><h2 style="color:#ff2b2b; font-style: italic;">📫 How to Reach Me</h2> 
 [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/sasabbir.rhaman.9/) 
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-siam-sheikh-9826872ab/) 
-[<img src="https://pngimg.com/d/gmail_logo_PNG6.png" alt="Gmail" height="50" style="margin:0 0 -5px 0;">](https://mail.google.com/mail/?view=cm&fs=1&to=siamsabbir307@gmail.com)
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>]
 [<img src='https://hamiltonrising.com/wp-content/uploads/2018/09/website-logo-png.png?raw=true' alt='website' height='50' style=" margin: 0 0 -5px -5px;">](https://mdsiamsheikh-2p.netlify.app/) 
+
 
 ><h2 style="color:#ff2b2b; font-style: italic;">✅ Fun Facts</h2>  
 `♟️ I enjoy playing Chess` <br>
